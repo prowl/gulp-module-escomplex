@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-escomplex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Escomplex gulp module integration",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "homepage": "https://github.com/prowl/gulp-module-escomplex",
   "dependencies": {
     "gulp-escomplex": "^1.0.0",
-    "gulp-escomplex-reporter-json": "1.0.4"
+    "gulp-escomplex-reporter-json": "^1.0.0"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
