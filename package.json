@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-escomplex",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Escomplex gulp module integration",
   "main": "lib/index.js",
   "scripts": {
@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "gulp": "^3.8.7",
-    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz"
+    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz",
+    "should": "^4.0.4"
   }
 }
